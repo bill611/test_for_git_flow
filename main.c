@@ -6,5 +6,6 @@ int main(void)
 {
 	printf("git test\n");	
 	test_a();
+	printf("11\n");
 	return 0;
 }
